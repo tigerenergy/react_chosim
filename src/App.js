@@ -34,7 +34,7 @@ function App()
     <>
     <div className='App'>
       <header className='App-header'>
-          <h1>리액트</h1>
+          <h1>React</h1>
       </header>
       <ExpenseItem 
       title={expenses[0].title} 
